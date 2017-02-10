@@ -15,5 +15,6 @@ TODO: Write usage instructions
 5. Submit a pull request 
 
 ## Credits
-TODO: Write credits
+Seamus Salt - Lead Programmer
+
 
